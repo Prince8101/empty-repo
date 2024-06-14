@@ -1,0 +1,144 @@
+UserID: 1525587545 | Time: 2024-06-14 02:40:57.365683 | Command: bgmi | Target: 20.235.90.9 | Port: 10565 | Time: 240
+Username: @Gucci_premium_hack
+Target: 20.235.90.9
+Port: 10565
+Time: 240
+
+UserID: 1793208072 | Time: 2024-06-14 03:46:37.524097 | Command: bgmi | Target: 20.204.189.22 | Port: 10139 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 20.204.189.22
+Port: 10139
+Time: 240
+
+UserID: 1692589043 | Time: 2024-06-14 04:35:34.308188 | Command: bgmi | Target: 20.204.179.88 | Port: 26244 | Time: 240
+Username: UserID: 1692589043
+Target: 20.204.179.88
+Port: 26244
+Time: 240
+
+UserID: 1692589043 | Time: 2024-06-14 05:10:33.304656 | Command: bgmi | Target: 20.219.6.21 | Port: 28173 | Time: 240
+Username: UserID: 1692589043
+Target: 20.219.6.21
+Port: 28173
+Time: 240
+
+UserID: 1692589043 | Time: 2024-06-14 05:18:44.368563 | Command: bgmi | Target: 20.198.74.110 | Port: 26468 | Time: 240
+Username: UserID: 1692589043
+Target: 20.198.74.110
+Port: 26468
+Time: 240
+
+UserID: 1692589043 | Time: 2024-06-14 05:25:37.466455 | Command: bgmi | Target: 20.198.75.22 | Port: 11287 | Time: 240
+Username: UserID: 1692589043
+Target: 20.198.75.22
+Port: 11287
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 06:35:43.164245 | Command: bgmi | Target: 20.235.16.126 | Port: 23385 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.235.16.126
+Port: 23385
+Time: 300
+
+UserID: 1793208072 | Time: 2024-06-14 07:08:31.655640 | Command: bgmi | Target: 20.219.21.44 | Port: 21858 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 20.219.21.44
+Port: 21858
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 07:32:07.895683 | Command: bgmi | Target: 20.198.107.63 | Port: 10868 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.198.107.63
+Port: 10868
+Time: 300
+
+UserID: 1793208072 | Time: 2024-06-14 07:43:25.516852 | Command: bgmi | Target: 4.247.17.165 | Port: 15450 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 4.247.17.165
+Port: 15450
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 07:46:53.645763 | Command: bgmi | Target: 20.204.77.3 | Port: 11120 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.204.77.3
+Port: 11120
+Time: 300
+
+UserID: 5628671567 | Time: 2024-06-14 07:50:46.685096 | Command: bgmi | Target: 4.213.64.184 | Port: 23155 | Time: 240
+Username: UserID: 5628671567
+Target: 4.213.64.184
+Port: 23155
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 08:02:48.387533 | Command: bgmi | Target: 20.204.49.111 | Port: 19371 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.204.49.111
+Port: 19371
+Time: 300
+
+UserID: 1793208072 | Time: 2024-06-14 08:06:45.771862 | Command: bgmi | Target: 4.247.20.151 | Port: 28138 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 4.247.20.151
+Port: 28138
+Time: 240
+
+UserID: 5628671567 | Time: 2024-06-14 08:16:21.622937 | Command: bgmi | Target: 104.211.240.59 | Port: 18304 | Time: 240
+Username: UserID: 5628671567
+Target: 104.211.240.59
+Port: 18304
+Time: 240
+
+UserID: 5628671567 | Time: 2024-06-14 08:56:09.516193 | Command: bgmi | Target: 20.204.190.221 | Port: 10280 | Time: 240
+Username: UserID: 5628671567
+Target: 20.204.190.221
+Port: 10280
+Time: 240
+
+UserID: 1793208072 | Time: 2024-06-14 08:56:10.364402 | Command: bgmi | Target: 4.247.19.84 | Port: 17854 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 4.247.19.84
+Port: 17854
+Time: 240
+
+UserID: 5628671567 | Time: 2024-06-14 09:01:12.635423 | Command: bgmi | Target: 20.235.89.82 | Port: 2340 | Time: 240
+Username: UserID: 5628671567
+Target: 20.235.89.82
+Port: 2340
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 09:04:14.976283 | Command: bgmi | Target: 20.235.14.171 | Port: 24872 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.235.14.171
+Port: 24872
+Time: 300
+
+UserID: 1525587545 | Time: 2024-06-14 09:09:12.548447 | Command: bgmi | Target: 20.219.141.37 | Port: 18087 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.219.141.37
+Port: 18087
+Time: 300
+
+UserID: 1793208072 | Time: 2024-06-14 09:10:11.500549 | Command: bgmi | Target: 20.235.13.231 | Port: 15416 | Time: 240
+Username: @Yaa_its_ripon_01
+Target: 20.235.13.231
+Port: 15416
+Time: 240
+
+UserID: 5628671567 | Time: 2024-06-14 09:24:43.598026 | Command: bgmi | Target: 20.204.19.56 | Port: 10405 | Time: 240
+Username: UserID: 5628671567
+Target: 20.204.19.56
+Port: 10405
+Time: 240
+
+UserID: 5628671567 | Time: 2024-06-14 09:48:32.893733 | Command: bgmi | Target: 20.235.92.154 | Port: 27687 | Time: 240
+Username: UserID: 5628671567
+Target: 20.235.92.154
+Port: 27687
+Time: 240
+
+UserID: 1525587545 | Time: 2024-06-14 09:50:43.600512 | Command: bgmi | Target: 20.235.51.204 | Port: 28499 | Time: 300
+Username: @Gucci_premium_hack
+Target: 20.235.51.204
+Port: 28499
+Time: 300
+
